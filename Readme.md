@@ -6,8 +6,8 @@ Repositorio con los ejercicios y contenidos del curso de formación para el prof
 
 ### UT-01: Desarrollo de Aplicaciones Móviles
 
-** Contenido **
+**Contenido**
 - [Presentación de la UT-01](docs/ut01/ut1.pdf)
 
-** Ejercicios **
+**Ejercicios**
 - [Ejercicio_1](docs/ut01/ut1-ej1.pdf)
