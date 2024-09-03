@@ -11,3 +11,5 @@ Repositorio con los ejercicios y contenidos del curso de formación para el prof
 
 ** Ejercicios **
 - [Ejercicio_1](docs/ut01/ut1-ej1.pdf)
+- [Ejercicio_2](docs/ut01/ut1-ej2.pdf)
+- [Ejercicio_3](docs/ut01/ut1-ej3.pdf)
