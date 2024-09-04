@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">AndroidTraining2</string>
     <string name="label_login">Identificación de usuarios</string>
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+    <string name="action_validate">Validar</string>
+    <string name="message_login_ok">Credenciales correctas</string>
+    <string name="message_login_fail">Credenciales incorrectas</string>
 </resources>
