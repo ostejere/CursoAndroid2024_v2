@@ -8,4 +8,6 @@ interface LoginRepository {
 
     fun deleteUsername()
 
+    fun getUsername(): String?
+
 }
